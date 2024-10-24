@@ -1,36 +1,46 @@
-# Image-to-PDF-converter
-A simple and efficient tool to convert image files into PDF documents. This project provides a user-friendly interface and supports multiple image formats, allowing users to combine images into a single PDF or convert them individually.
+# Image-to-PDF Converter
 
-Features
-Supports popular image formats: JPEG, PNG, BMP, GIF, and more.
-Batch conversion capability to process multiple images at once.
-Option to customize PDF settings (page size, orientation, margins).
-Lightweight and easy to use with minimal dependencies.
-Cross-platform compatibility (Windows, macOS, Linux).
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/image-to-pdf-converter.git
-Navigate to the project directory:
-bash
-Copy code
-cd image-to-pdf-converter
-Install the required dependencies:
-bash
-Copy code
-npm install
-Run the application:
-bash
-Copy code
-npm start
-Usage
-Drag and drop your images into the application window.
-Adjust settings as needed.
-Click the "Convert" button to generate your PDF.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
+Convert your images to PDF files quickly and easily with this simple, yet powerful Image-to-PDF Converter.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Features
 
+- **Batch Conversion**: Convert multiple images to a single PDF file.
+- **Supports Multiple Formats**: Works with popular image formats including JPG, PNG, and TIFF.
+- **Customizable Output**: Adjust PDF page size and orientation.
+- **Drag-and-Drop Interface**: Easy-to-use interface for adding images.
+- **Preview Functionality**: View your images before conversion.
+- **Cross-platform**: Works on Windows, macOS, and Linux.
+
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/image-to-pdf-converter.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd image-to-pdf-converter
+   ```
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. Run the application:
+   ```
+   python main.py
+   ```
+2. Drag and drop your images into the application window.
+3. Adjust settings if needed (page size, orientation, etc.).
+4. Click the "Convert" button.
+5. Choose a location to save your PDF file.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
