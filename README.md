@@ -38,7 +38,7 @@ Convert your images to PDF files quickly and easily with this simple, yet powerf
 5. Choose a location to save your PDF file.
 
 ## Contributing
-
+Yeswanth Soma @Copyrights Reserved
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
